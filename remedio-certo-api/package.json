@@ -1,0 +1,19 @@
+{
+  "name": "remedio-certo-api",
+  "version": "1.0.0",
+  "description": "remedio certo api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ciceromoura",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0",
+    "firebase-admin": "^6.0.0"
+  }
+}
